@@ -1,0 +1,13 @@
+api_id: YOUR_API_ID
+api_hash: YOUR_API_HASH
+channel_name: YOUR_CHANNEL_USERNAME
+
+llm_service: ollama  # or 'deepseek'
+ollama_model: llama2
+deepseek_api_key: YOUR_DEEPSEEK_KEY
+
+
+base_hashtags_file: base_hashtags.txt
+index_post_id: 123  # Post ID for hashtag index
+test_mode: false
+test_post_id: 456
